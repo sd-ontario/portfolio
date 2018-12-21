@@ -1,0 +1,25 @@
+#banner{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: orangered;
+}
+
+#portfolio{
+    background-color: rgb(247, 247, 247);
+}
+
+#p1_image{
+    height: 240px;
+    
+}
+
+hr.line{
+    border-top: 1px solid black;
+}
+
+h3.center{
+    text-align: center;
+}
