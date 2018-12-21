@@ -4,14 +4,14 @@
   "description": "<h1>My website portfolio built with simple HTML and CSS. Uses Bootstrap and custom styles.</h1>",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js "
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sd-ontario/Portfolio.git"
   },
-  "author": "Stephen",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/sd-ontario/Portfolio/issues"
   },
@@ -19,6 +19,5 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4"
-  },
-  "devDependencies": {}
+  }
 }

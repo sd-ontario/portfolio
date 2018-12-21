@@ -1,3 +1,6 @@
+
+
+
 #banner{
     background-color: gray;
     color: white;
@@ -5,6 +8,7 @@
     border-bottom-width: 10px;
     border-bottom-style: solid;
     border-bottom-color: orangered;
+    
 }
 
 #portfolio{
