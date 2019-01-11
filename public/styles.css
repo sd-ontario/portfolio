@@ -2,14 +2,30 @@
 
 
 #banner{
-    background-color: gray;
     color: white;
     text-align: center;
-    border-bottom-width: 10px;
-    border-bottom-style: solid;
-    border-bottom-color: orangered;
-    
 }
+
+.btn{
+    margin:20px;
+}
+
+.jumbotron{
+    background-image: url('http://www.gamedynamo.com/images/galleries/photo/4087/psn-maintenance-328.jpg');
+    color:white; 
+}
+
+#headshot{
+    height:300px;
+    float:left;
+    padding:10px;
+}
+
+#about-container{
+    background-color: lightblue;
+    margin-bottom:5%
+}
+
 
 #portfolio{
     background-color: rgb(247, 247, 247);
@@ -26,4 +42,22 @@ hr.line{
 
 h3.center{
     text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #777777;
+    border-top: 5px solid #4a6caa;
+  }
+
+.footer-content{
+    position:absolute;
+    top:20%;
+    left:50%;
+    bottom:50%;
+    color:white;
 }
