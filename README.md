@@ -1,5 +1,4 @@
-# Portfolio - Made with HTML, CSS, Bootstrap
+# portfolio
+<h1>My website portfolio built with simple HTML and CSS. Uses Bootstrap and custom styles.</h1>
 
-### Heroku Link
-https://serene-brushlands-38400.herokuapp.com/
 

@@ -61,3 +61,14 @@ h3.center{
     bottom:50%;
     color:white;
 }
+
+#project{
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+
+.proj-img{
+    float:left;
+    padding:10px;
+    height:300px;
+}
